@@ -1,0 +1,15 @@
+C:\Users\wasd\source\repos\AlgorithmsLearning\bin\Debug\net6.0\AlgorithmsLearning.exe
+C:\Users\wasd\source\repos\AlgorithmsLearning\bin\Debug\net6.0\AlgorithmsLearning.deps.json
+C:\Users\wasd\source\repos\AlgorithmsLearning\bin\Debug\net6.0\AlgorithmsLearning.runtimeconfig.json
+C:\Users\wasd\source\repos\AlgorithmsLearning\bin\Debug\net6.0\AlgorithmsLearning.dll
+C:\Users\wasd\source\repos\AlgorithmsLearning\bin\Debug\net6.0\AlgorithmsLearning.pdb
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.csproj.AssemblyReference.cache
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.AssemblyInfoInputs.cache
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.AssemblyInfo.cs
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.csproj.CoreCompileInputs.cache
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.dll
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\refint\AlgorithmsLearning.dll
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.pdb
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\AlgorithmsLearning.genruntimeconfig.cache
+C:\Users\wasd\source\repos\AlgorithmsLearning\obj\Debug\net6.0\ref\AlgorithmsLearning.dll
